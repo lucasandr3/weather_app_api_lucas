@@ -10,13 +10,13 @@
         "version": "1.0"
     },
     "paths": {
-        "/register": {
+        "/registro": {
             "post": {
                 "tags": [
                     "Autenticação"
                 ],
                 "summary": "Registro de um novo usuário",
-                "operationId": "3001e2d0311bb38bb8bded4ce93a5aee",
+                "operationId": "efe613daaf2a04ed607bd06cfebeda71",
                 "requestBody": {
                     "required": true,
                     "content": {

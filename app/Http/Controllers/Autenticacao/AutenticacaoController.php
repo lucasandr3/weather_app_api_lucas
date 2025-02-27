@@ -16,7 +16,7 @@ class AutenticacaoController extends Controller
 {
     /**
      * @OA\Post(
-     *     path="/register",
+     *     path="/registro",
      *     summary="Registro de um novo usuário",
      *     tags={"Autenticação"},
      *     @OA\RequestBody(
